@@ -1,0 +1,73 @@
+h1 {
+	color: #02240b;
+}
+
+a:link {
+	color: #010014;
+	font-weight: 650;
+
+}
+
+a:visited {
+	color: #200124;
+	font-weight: 350;
+}
+
+a:hover {
+	color: #dbdb0f;
+	font-weight: 850;
+	font-style: italic;
+}
+
+a:active {
+	color: #07f5ed;
+	font-weight: 500;
+	font-style: normal;
+}
+
+.ghost:hover {
+	color: #e6e6e6;
+	font-weight: 900;
+	font-style: oblique;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #dcf0f2;
+}
+
+.topnav a {
+  float: left;
+  color: #260202;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.topnav a:hover {
+  background-color: #dbd87b;
+  color: #990909;
+}
+
+.topnav a:active {
+  background-color: #24b1bf;
+  color: #820117;
+}
+
+.bottombar {
+	overflow: hidden;
+	background-color: white;
+	color: black;
+	font-size: 11px;
+	text-align: center;
+	 text-decoration: none;
+	  padding: 14px 16px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
